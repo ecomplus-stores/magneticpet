@@ -8,40 +8,59 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
-        },
-        {
-          "start": "",
+          "img": "/img/uploads/logo-home-1.png",
+          "link": "https://magneticpet.netlify.app/produtos-para-cavalos",
+          "alt": "MAGNETIC PET® - Produtos Terapêuticos para Cavalos ",
+          "start": "2024-02-21T17:55:21.227Z",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "mobile_img": "/img/uploads/logo-home-2.png"
         }
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "page": 1,
+      "title": "PARA EQUINOS ",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://magneticpet.netlify.app/produtos-para-cavalos",
+      "limit": 12,
+      "collection_id": "65d4ebb287ab487fbfc02412:categories:Para Cavalos:/produtos-para-cavalos",
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
+      "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "65d510e587ab487fbfc06fc7:categories:Para Cães:/produtos-para-caes",
+      "sort": "views",
+      "title": "PARA CÃES ",
+      "link": "https://magneticpet.netlify.app/produtos-para-caes"
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65d5110c87ab487fbfc07015:categories:Para Gatos:/produtos-para-gatos",
+      "sort": "views",
+      "link": "https://magneticpet.netlify.app/produtos-para-gatos",
+      "title": "PARA GATOS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65d5113a87ab487fbfc0707f:categories:Para Humanos:/humanos",
+      "sort": "views",
+      "title": "PARA HUMANOS",
+      "link": "https://magneticpet.netlify.app/humanos"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
