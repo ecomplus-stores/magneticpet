@@ -5,16 +5,44 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "title": "INFORMAÇÕES",
+    "list": [
+      {
+        "text": "MAGNETIC PET®"
+      },
+      {
+        "text": "COMO COMPRAR",
+        "url": "/pages/faq"
+      },
+      {
+        "text": "FORMAS DE ENVIO",
+        "url": "/pages/entrega"
+      },
+      {
+        "text": "FORMAS DE PAGAMENTO",
+        "url": "/pages/pagamentos"
+      },
+      {
+        "text": "TROCAS & DEVOLUÇÃO",
+        "url": "/pages/trocas"
+      },
+      {
+        "text": "SEGURANÇA & PRIVACIDADE",
+        "url": "/pages/privacidade"
+      },
+      {
+        "text": "ARTIGOS BLOG ",
+        "url": "/blog"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
-    "title": "Categorias",
+    "list_categories": false,
+    "title": "",
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "CONTATOS",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -22,8 +50,8 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection",
+      "src": "/img/uploads/seguranca.png",
+      "alt": "LOJA SEGURA",
       "width": 150,
       "height": 62
     }
@@ -34,7 +62,7 @@
     "mastercard": true,
     "elo": true,
     "amex": true,
-    "hipercard": true,
+    "hipercard": false,
     "boleto": true
   },
   "credits": ""
