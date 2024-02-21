@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/logo-home-1.png",
@@ -16,6 +16,10 @@
           "mobile_img": "/img/uploads/logo-home-2.png"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "page": 1,
@@ -57,10 +61,6 @@
       "sort": "views",
       "title": "PARA HUMANOS",
       "link": "https://magneticpet.netlify.app/humanos"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
