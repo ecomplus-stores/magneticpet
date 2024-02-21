@@ -1,32 +1,44 @@
 {
-  "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+  "categories_list": {
+    "featured": [],
+    "random": 6,
+    "full_width": true
   },
+  "menu_all_departments": true,
+  "centralized_logo": false,
+  "marketing_stripe": {
+    "text": "",
+    "link": ""
+  },
+  "alphabetical_order_submenu": true,
+  "name_all_departments": "TODA LOJA",
+  "search_input": true,
+  "desktop_megamenu": true,
+  "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "LOGIN / ENTRE NA SUA CONTA ",
+        "link": "/account/"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "VER PEDIDOS",
+        "link": "/account/orders"
+      },
+      {
+        "title": "SOBRE A EMPRESA",
+        "link": "/pages/magneticpet-sobre-a-empresa"
+      },
+      {
+        "title": "COMO COMPRAR",
+        "link": "/pages/faq"
+      },
+      {
+        "title": "REVENDA",
+        "link": "/pages/atacado-magneticpet-compre-online"
       }
     ],
     "phone_wpp": true,
     "socials": true
-  },
-  "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
-  },
-  "centralized_logo": false,
-  "desktop_megamenu": false,
-  "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false,
-  "menu_all_departments": false,
-  "name_all_departments": ""
+  }
 }
