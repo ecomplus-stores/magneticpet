@@ -1,7 +1,17 @@
 {
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/produtos-para-caes?Para Cães",
+      "/produtos-para-gatos?Para Gatos",
+      "/produtos-para-cavalos?Para Cavalos",
+      "/para-humanos?Para Humanos",
+      "/protetores-para-membros-terapeuticos?Protetores para Membros",
+      "/capas?Capas",
+      "/camas-e-colchoes-terapeuticos?Camas e Colchões Terapêuticos",
+      "/mantas-de-infravermelho?Mantas de Infravermelho",
+      "/roupas-terapeuticas?Roupas e Protetores"
+    ],
+    "random": 8,
     "full_width": true
   },
   "menu_all_departments": false,
