@@ -168,7 +168,7 @@ const themeCustom = _.settings.theme.custom || ''
               <% if (footer.payment_methods[method]) { %>
                 <i class="pay-icon pay-icon--<%= method %>"></i>
               <% } %>
-            <% }) %>
+            <% }) %><br>Pague suas compras no cartão de crédito ou PIX.
           </p>
           <div class="footer__stamps">
             <%- await include(`@/sections/stamps`, { _, opt: { stamps: footer.stamps } }) %>
