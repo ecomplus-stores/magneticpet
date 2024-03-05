@@ -4,14 +4,9 @@
       "/produtos-para-caes?Para Cães",
       "/produtos-para-gatos?Para Gatos",
       "/produtos-para-cavalos?Para Cavalos",
-      "/para-humanos?Para Humanos",
-      "/protetores-para-membros-terapeuticos?Protetores para Membros",
-      "/capas?Capas",
-      "/camas-e-colchoes-terapeuticos?Camas e Colchões Terapêuticos",
-      "/mantas-de-infravermelho?Mantas de Infravermelho",
-      "/roupas-terapeuticas?Roupas e Protetores"
+      "/para-humanos?Para Humanos"
     ],
-    "random": 8,
+    "random": 4,
     "full_width": true
   },
   "menu_all_departments": true,
@@ -23,7 +18,7 @@
   "alphabetical_order_submenu": true,
   "name_all_departments": "TODA LOJA",
   "search_input": true,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
