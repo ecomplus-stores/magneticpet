@@ -6,10 +6,10 @@
       "/produtos-para-cavalos?Para Cavalos",
       "/para-humanos?Para Humanos"
     ],
-    "random": 4,
+    "random": 1,
     "full_width": true
   },
-  "menu_all_departments": true,
+  "menu_all_departments": false,
   "centralized_logo": true,
   "marketing_stripe": {
     "text": "",
