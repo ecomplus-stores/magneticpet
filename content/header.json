@@ -14,8 +14,8 @@
     "random": 8,
     "full_width": true
   },
-  "menu_all_departments": false,
-  "centralized_logo": false,
+  "menu_all_departments": true,
+  "centralized_logo": true,
   "marketing_stripe": {
     "text": "",
     "link": ""
