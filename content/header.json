@@ -1,11 +1,6 @@
 {
   "categories_list": {
-    "featured": [
-      "/produtos-para-caes?Para Cães",
-      "/produtos-para-gatos?Para Gatos",
-      "/produtos-para-cavalos?Para Cavalos",
-      "/para-humanos?Para Humanos"
-    ],
+    "featured": [],
     "random": 1,
     "full_width": true
   },
