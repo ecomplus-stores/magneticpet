@@ -22,6 +22,15 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "Os Destaques da Semana ",
+      "link": "https://magneticpet.netlify.app/destaques"
+    },
+    {
       "page": 1,
       "title": "PARA EQUINOS ",
       "shuffle": true,
