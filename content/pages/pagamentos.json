@@ -2,5 +2,31 @@
   "title": "Formas de pagamento",
   "meta_title": "Formas de pagamento",
   "meta_description": "Formas de pagamento",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "QUAIS SÃO AS FORMAS DE PAGAMENTO?\\*\\*\n\nVocê pode pagar com cartão de crédito ou boleto bancário via  (apenas no Brasil) , depósito bancário/ PIX, neste caso você será instruído no próprio site e por e-mail sobre a conta e como proceder com o pagamento.\n\n**Para pedidos para envio Exterior**, nos chame no [whatsapp](https://web.whatsapp.com/send?phone=%2B5511994365005) para finalizar sua compra.\n\n<div class=\"html-clearfix\"><center><h3>CONTATOS</h3><ul class=\"list-unstyled\"><li><span class=\"footer__list-icon\"><i class=\"i-whatsapp\"></i> </span><a href=\"https://web.whatsapp.com/send?phone=%2B5511994365005\" target=\"_blank\" rel=\"noopener\" class=\"whatsapp-link\" data-tel=\"11994365005\">(11) 99436-5005</a></li><li><span class=\"footer__list-icon\"><i class=\"i-phone\"></i> </span><a href=\"tel:+1134838365\" target=\"_blank\" rel=\"noopener\">(11)3483-8365</a></li><li><a href=\"mailto:vendas@magneticpet.com.br\" target=\"_blank\" rel=\"noopener\">vendas@magneticpet.com.br</a></li><li><address>São Paulo</address></li></ul><p class=\"footer__social\"><a href=\"https://www.facebook.com/magnetic.pet\" target=\"_blank\" rel=\"noopener\" aria-label=\"facebook\" style=\"color: #3b5998\"><i class=\"i-facebook\"></i> </a><a href=\"https://www.youtube.com/@magneticpet620\" target=\"_blank\" rel=\"noopener\" aria-label=\"youtube\" style=\"color: #ff0000\"><i class=\"i-youtube\"></i> </a><a href=\"https://www.instagram.com/magnetic_pet/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" style=\"color: #e1306c\"><i class=\"i-instagram\"></i></a></p></center></div>",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Destaques para você: ",
+      "link": "https://magneticpet.netlify.app/destaques"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
