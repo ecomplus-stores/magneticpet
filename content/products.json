@@ -31,9 +31,8 @@
       "show_loading": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
