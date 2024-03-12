@@ -3,6 +3,19 @@
     {
       "type": "search-engine",
       "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4>N﻿ão encontrou o que procurava? </h4>\n\n<p>Fale conosco pelo <a href=\"https://web.whatsapp.com/send?phone=%2B5511994365005\" target=\"_blank\" style=\"font-weight: bold;\">whatsapp</a>\n\n<p/><h3>V﻿eja abaixo alguns destaques da semana:</h3>"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "views"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
