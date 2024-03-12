@@ -2,5 +2,31 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "QUAL É A FORMA E O PRAZO DE ENTREGA?\n\nO prazo de entrega depende do **CEP de destino** e será informado na página de finalização do pedido, a entrega será realizada pelos **CORREIOS ou Transportadora**. Você poderá escolher entre os serviços PAC, SEDEX , Transportadora como método de envio na página de finalização do pedido.\nSeu pedido será postado **em até 2 dias úteis** após confirmação de pagamento. \n\n\n\nMAGNETIC PET®  VENDE PARA FORA DO BRASIL?\n\nSim,fale conosco pelo [whatsapp](https://web.whatsapp.com/send?phone=%2B5511994365005)\n\n\n\n\n\n<div class=\"html-clearfix\"><center><h3>CONTATOS</h3><ul class=\"list-unstyled\"><li><span class=\"footer__list-icon\"><i class=\"i-whatsapp\"></i> </span><a href=\"https://web.whatsapp.com/send?phone=%2B5511994365005\" target=\"_blank\" rel=\"noopener\" class=\"whatsapp-link\" data-tel=\"11994365005\">(11) 99436-5005</a></li><li><span class=\"footer__list-icon\"><i class=\"i-phone\"></i> </span><a href=\"tel:+1134838365\" target=\"_blank\" rel=\"noopener\">(11)3483-8365</a></li><li><a href=\"mailto:vendas@magneticpet.com.br\" target=\"_blank\" rel=\"noopener\">vendas@magneticpet.com.br</a></li><li><address>São Paulo</address></li></ul><p class=\"footer__social\"><a href=\"https://www.facebook.com/magnetic.pet\" target=\"_blank\" rel=\"noopener\" aria-label=\"facebook\" style=\"color: #3b5998\"><i class=\"i-facebook\"></i> </a><a href=\"https://www.youtube.com/@magneticpet620\" target=\"_blank\" rel=\"noopener\" aria-label=\"youtube\" style=\"color: #ff0000\"><i class=\"i-youtube\"></i> </a><a href=\"https://www.instagram.com/magnetic_pet/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" style=\"color: #e1306c\"><i class=\"i-instagram\"></i></a></p></center></div>",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Destaques para você ",
+      "link": "https://magneticpet.netlify.app/destaques"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
