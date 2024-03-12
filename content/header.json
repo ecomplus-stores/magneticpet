@@ -27,11 +27,11 @@
     "pages": [
       {
         "title": "LOGIN / ENTRE NA SUA CONTA ",
-        "link": "/account/"
+        "link": "https://magneticpet.netlify.app/app/#/account/"
       },
       {
         "title": "VER PEDIDOS",
-        "link": "/account/orders"
+        "link": "https://magneticpet.netlify.app/app/#/account/orders"
       },
       {
         "title": "SOBRE A EMPRESA",
