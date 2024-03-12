@@ -19,6 +19,10 @@
       "type": "brand-retail",
       "enabled": true,
       "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
