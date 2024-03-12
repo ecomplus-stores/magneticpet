@@ -52,6 +52,12 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/cavalo-fachada.png",
+      "mobile_img": "/img/uploads/cavalo-fachadamobile.png",
+      "link": "https://magneticpet.netlify.app/produtos-para-cavalos"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
