@@ -2,5 +2,28 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Da união de ideias e experiências de uma médica veterinária especializada em fisioterapia e acupuntura e uma engenheira eletrônica experiente no trato com animais, nasce a **MAGNETIC PET®**.\n\nFundada em 2012, a **MAGNETIC PET®** foi criada da observação direta dos animais.\\\nMuitos anos convivendo com cachorros, gatos e cavalos permitiram entender suas necessidades e desenvolver produtos que lhes proporcionem bem-estar.\n\nTanto animais jovens como idosos podem e devem ter conforto quando ficam doentes, apresentam lesões, passam por uma cirurgia ou quando fatalmente começam a sentir os sinais da idade. \n\nDesenvolver e produzir artigos que lhes proporcionem bem-estar é nossa missão. Para eles criamos, através de pesquisas e testes direcionados, produtos com tecnologia e qualidade.\n\nSeu amigo vai lhe agradecer, pois com muito carinho, os cuidados necessários e os produtos **MAGNETIC PET®**, irá viver mais feliz ao seu lado.",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/catmagneticpet.png"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<center><h3>CONTATOS</h3>\n  <ul class=\"list-unstyled\"><li><span class=\"footer__list-icon\">\n    <i class=\"i-whatsapp\"></i> </span>\n    <a href=\"https://web.whatsapp.com/send?phone=%2B5511994365005\" target=\"_blank\" rel=\"noopener\" class=\"whatsapp-link\" data-tel=\"11994365005\">(11) 99436-5005</a></li><li><span class=\"footer__list-icon\"><i class=\"i-phone\"></i> </span><a href=\"tel:+1134838365\" target=\"_blank\" rel=\"noopener\">(11)3483-8365</a></li><li><a href=\"mailto:vendas@magneticpet.com.br\" target=\"_blank\" rel=\"noopener\">vendas@magneticpet.com.br</a></li><li><address>São Paulo</address></li></ul><p class=\"footer__social\"><a href=\"https://www.facebook.com/magnetic.pet\" target=\"_blank\" rel=\"noopener\" aria-label=\"facebook\" style=\"color: #3b5998\"><i class=\"i-facebook\"></i> </a><a href=\"https://www.youtube.com/@magneticpet620\" target=\"_blank\" rel=\"noopener\" aria-label=\"youtube\" style=\"color: #ff0000\"><i class=\"i-youtube\"></i> </a><a href=\"https://www.instagram.com/magnetic_pet/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" style=\"color: #e1306c\"><i class=\"i-instagram\"></i></a></p></div></div></center>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "Nossos Destaques da Semana",
+      "link": "https://magneticpet.netlify.app/destaques"
+    }
+  ]
 }
