@@ -22,6 +22,36 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/gatos.png",
+          "link": "https://magneticpet.netlify.app/colar-elizabetano-ultra-leve-pets"
+        },
+        {
+          "img": "/img/uploads/caes.png",
+          "link": "https://magneticpet.netlify.app/produtos-para-caes"
+        },
+        {
+          "img": "/img/uploads/cavalos.png",
+          "link": "https://magneticpet.netlify.app/manta-de-trabalho-infravermelho"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner1l.png",
+          "link": "https://magneticpet.netlify.app/produtos-para-caes"
+        },
+        {
+          "img": "/img/uploads/banner2l.png",
+          "link": "https://magneticpet.netlify.app/produtos-para-gatos"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -46,20 +76,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65e72bc987ab487fbfd67aec:categories:Para Cães:/produtos-para-caes",
+      "collection_id": "65e7466f87ab487fbfd6b80a:categories:Para Gatos:/produtos-para-gatos",
       "sort": "views",
-      "title": "PARA CÃES ",
-      "link": "https://magneticpet.netlify.app/produtos-para-caes"
+      "link": "https://magneticpet.netlify.app/produtos-para-gatos",
+      "title": "PARA GATOS"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65e7466f87ab487fbfd6b80a:categories:Para Gatos:/produtos-para-gatos",
+      "collection_id": "65e72bc987ab487fbfd67aec:categories:Para Cães:/produtos-para-caes",
       "sort": "views",
-      "link": "https://magneticpet.netlify.app/produtos-para-gatos",
-      "title": "PARA GATOS"
+      "title": "PARA CÃES ",
+      "link": "https://magneticpet.netlify.app/produtos-para-caes"
     },
     {
       "type": "collection-shelf",
