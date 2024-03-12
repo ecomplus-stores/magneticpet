@@ -29,7 +29,7 @@
       "type": "collection-shelf",
       "link": "https://magneticpet.netlify.app/produtos-para-cavalos",
       "limit": 12,
-      "collection_id": "65d4ebb287ab487fbfc02412:categories:Para Cavalos:/produtos-para-cavalos",
+      "collection_id": "65e7465a87ab487fbfd6b764:categories:Para Cavalos:/produtos-para-cavalos",
       "sort": "views"
     },
     {
@@ -37,7 +37,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65d510e587ab487fbfc06fc7:categories:Para Cães:/produtos-para-caes",
+      "collection_id": "65e72bc987ab487fbfd67aec:categories:Para Cães:/produtos-para-caes",
       "sort": "views",
       "title": "PARA CÃES ",
       "link": "https://magneticpet.netlify.app/produtos-para-caes"
@@ -47,7 +47,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65d5110c87ab487fbfc07015:categories:Para Gatos:/produtos-para-gatos",
+      "collection_id": "65e7466f87ab487fbfd6b80a:categories:Para Gatos:/produtos-para-gatos",
       "sort": "views",
       "link": "https://magneticpet.netlify.app/produtos-para-gatos",
       "title": "PARA GATOS"
