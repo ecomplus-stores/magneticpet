@@ -13,15 +13,6 @@
       }
     },
     {
-      "type": "related-products",
-      "title": "Produtos relacionados"
-    },
-    {
-      "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:",
-      "show_loading": true
-    },
-    {
       "type": "product-description",
       "title": "Quem comprou este produto, também comprou:",
       "enabled": true
@@ -31,8 +22,18 @@
       "enabled": true
     },
     {
-      "type": "product-specifications",
-      "enabled": true
+      "type": "related-products",
+      "title": "Você também pode se interessar por: "
+    },
+    {
+      "type": "recommended-products",
+      "title": "Quem comprou este produto, também comprou:",
+      "show_loading": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
     }
   ]
 }
