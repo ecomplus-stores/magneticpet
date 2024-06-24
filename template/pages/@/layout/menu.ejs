@@ -88,7 +88,7 @@ if (mainCategories) {
           <% } %>
 
           <div class="menu__list">
-<a class="menu__item" href="https://magneticpet.netlify.app/marca-magnetic-pet">Toda Loja</a>
+
             <% categoryParents[slug].forEach((subcategory, index) => { %>
               <% const hasSubmenu = Array.isArray(categoryParents[subcategory.slug]) %>
               <a
@@ -131,7 +131,9 @@ if (mainCategories) {
         </div>
       <% } %>
     <% } %>
+
   </nav>
+<a class="menu__item" href="https://magneticpet.netlify.app/marca-magnetic-pet">Toda Loja</a>
 <a class="menu__item" href="https://magneticpet.netlify.app/app/#/account/">Entrar na conta ou Cadastrar </a>
   <footer class="menu__footer">
     <% if (menu.phone_wpp) { %>
