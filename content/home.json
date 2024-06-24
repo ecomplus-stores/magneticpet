@@ -25,16 +25,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/gatos.png",
-          "link": "https://magneticpet.netlify.app/colar-elizabetano-ultra-leve-pets"
-        },
-        {
-          "img": "/img/uploads/caes.png",
+          "img": "/img/uploads/banner1l.png",
           "link": "https://magneticpet.netlify.app/produtos-para-caes"
         },
         {
-          "img": "/img/uploads/cavalos.png",
-          "link": "https://magneticpet.netlify.app/manta-de-trabalho-infravermelho"
+          "img": "/img/uploads/banner2l.png",
+          "link": "https://magneticpet.netlify.app/produtos-para-gatos"
         }
       ]
     },
@@ -48,17 +44,10 @@
       "link": "https://magneticpet.netlify.app/destaques"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner1l.png",
-          "link": "https://magneticpet.netlify.app/produtos-para-caes"
-        },
-        {
-          "img": "/img/uploads/banner2l.png",
-          "link": "https://magneticpet.netlify.app/produtos-para-gatos"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/cavalo-fachada.png",
+      "mobile_img": "/img/uploads/cavalo-fachadamobile.png",
+      "link": "https://magneticpet.netlify.app/produtos-para-cavalos"
     },
     {
       "page": 1,
@@ -72,10 +61,21 @@
       "sort": "views"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/cavalo-fachada.png",
-      "mobile_img": "/img/uploads/cavalo-fachadamobile.png",
-      "link": "https://magneticpet.netlify.app/produtos-para-cavalos"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/gatos.png",
+          "link": "https://magneticpet.netlify.app/colar-elizabetano-ultra-leve-pets"
+        },
+        {
+          "img": "/img/uploads/caes.png",
+          "link": "https://magneticpet.netlify.app/produtos-para-caes"
+        },
+        {
+          "img": "/img/uploads/cavalos.png",
+          "link": "https://magneticpet.netlify.app/manta-de-trabalho-infravermelho"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
