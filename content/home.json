@@ -18,6 +18,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -102,10 +106,6 @@
       "sort": "views",
       "title": "PARA HUMANOS",
       "link": "https://magneticpet.netlify.app/humanos"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
