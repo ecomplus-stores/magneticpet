@@ -8,12 +8,12 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/logo-home-1.png",
-          "link": "https://magneticpet.netlify.app/produtos-para-cavalos",
+          "img": "/img/uploads/home1-cao.png",
+          "link": "https://magneticpet.netlify.app/produtos-para-caes",
           "alt": "MAGNETIC PET® - Produtos Terapêuticos para Cavalos ",
           "start": "2024-02-21T17:55:21.227Z",
           "end": "",
-          "mobile_img": "/img/uploads/logo-home-2.png"
+          "mobile_img": "/img/uploads/home1-cao-mob.png"
         }
       ]
     },
