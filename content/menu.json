@@ -1,12 +1,17 @@
 {
   "sort_categories": [
+    "produtos-para-cavalos",
+    "produtos-para-caes",
+    "produtos-para-gatos",
+    "humanos",
+    "camas-e-colchoes-terapeuticos",
     "capas",
     "camas-e-colchoes-terapeuticos",
-    "roupas-terapeuticas",
+    "mantas-de-infravermelho",
     "protetores-para-membros-terapeuticos",
-    "camas-e-colchoes-terapeuticos"
+    "roupas-terapeuticas"
   ],
-  "alphabetical_order": true,
+  "alphabetical_order": false,
   "phone_wpp": true,
   "socials": true
 }
