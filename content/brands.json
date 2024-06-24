@@ -1,15 +1,15 @@
 {
   "sections": [
     {
+      "type": "document-banner",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
       "type": "page-title"
-    },
-    {
-      "type": "document-banner",
-      "enabled": true
     },
     {
       "type": "document-description",
@@ -19,6 +19,27 @@
       "type": "brand-retail",
       "enabled": true,
       "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cavalo1.png",
+          "link": "https://magneticpet.netlify.app/produtos-para-cavalos"
+        },
+        {
+          "img": "/img/uploads/caes1.png",
+          "link": "https://magneticpet.netlify.app/produtos-para-caes"
+        },
+        {
+          "img": "/img/uploads/gatos1.png",
+          "link": "https://magneticpet.netlify.app/produtos-para-gatos"
+        },
+        {
+          "img": "/img/uploads/humanos1.png",
+          "link": "https://magneticpet.netlify.app/humanos"
+        }
+      ]
     },
     {
       "type": "info-bar",
