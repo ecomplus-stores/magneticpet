@@ -68,10 +68,6 @@
       "sort": "views"
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/cavalo-fachada.png",
       "mobile_img": "/img/uploads/cavalo-fachadamobile.png",
@@ -106,6 +102,10 @@
       "sort": "views",
       "title": "PARA HUMANOS",
       "link": "https://magneticpet.netlify.app/humanos"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
