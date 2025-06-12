@@ -368,13 +368,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/marca-magnetic-pet</loc>
+      <loc>https://magneticpet.netlify.app/destaques</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/destaques</loc>
+      <loc>https://magneticpet.netlify.app/marca-magnetic-pet</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
