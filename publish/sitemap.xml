@@ -230,6 +230,18 @@
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/anti-moscas-para-nariz</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/kit-exclusivo-pe-e-mao-caneleira-terapeutica-de-trabalho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/caneleiras</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -452,13 +464,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/admin/index</loc>
+      <loc>https://magneticpet.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/app/index</loc>
+      <loc>https://magneticpet.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
