@@ -254,6 +254,12 @@
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/porta-bolsa-gelogel-quente-frio---mod-1</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/caneleiras</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -422,13 +428,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/pagamentos</loc>
+      <loc>https://magneticpet.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/faq</loc>
+      <loc>https://magneticpet.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
