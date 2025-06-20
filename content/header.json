@@ -23,7 +23,7 @@
   "name_all_departments": "TODA LOJA",
   "search_input": true,
   "desktop_megamenu": true,
-  "full_width_submenu": false,
+  "full_width_submenu": true,
   "contacts_stripe": {
     "pages": [
       {
