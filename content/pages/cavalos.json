@@ -1,0 +1,24 @@
+{
+  "title": "Cavalos",
+  "body": "DOENÇAS MAIS COMUNS\n\nCAVALOS:\n\nTENDINITES E DESMITES\nOVAS\nARTROSE\nESPARAVÃO\nOSTEÓFITOS\nDOR NAS COSTAS\nSENSIBILIDADE NA CERNELHA\nARTROSE NA NUCA",
+  "meta_title": "Cavalos",
+  "meta_description": "Cavalos",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65e7465a87ab487fbfd6b764:categories:Cavalos:/produtos-para-cavalos",
+      "link": "https://magneticpet.netlify.app/produtos-para-cavalos",
+      "title": "CAVALOS"
+    }
+  ]
+}
