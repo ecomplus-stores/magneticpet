@@ -5,6 +5,20 @@
   "meta_description": "Cavalos",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/cavalo-fachada.png",
+          "link": "https://magneticpet.netlify.app/produtos-para-cavalos",
+          "mobile_img": "/img/uploads/cavalo-fachadamobile.png"
+        }
+      ]
+    },
+    {
       "type": "page-title"
     },
     {
@@ -19,6 +33,10 @@
       "collection_id": "65e7465a87ab487fbfd6b764:categories:Cavalos:/produtos-para-cavalos",
       "link": "https://magneticpet.netlify.app/produtos-para-cavalos",
       "title": "CAVALOS"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
