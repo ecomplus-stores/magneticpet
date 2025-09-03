@@ -17,7 +17,7 @@
   "alphabetical_order_submenu": true,
   "name_all_departments": "TODA LOJA",
   "search_input": true,
-  "desktop_megamenu": true,
+  "desktop_megamenu": false,
   "full_width_submenu": true,
   "contacts_stripe": {
     "pages": [
