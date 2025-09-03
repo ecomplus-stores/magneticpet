@@ -9,7 +9,7 @@
     "full_width": true
   },
   "menu_all_departments": true,
-  "centralized_logo": true,
+  "centralized_logo": false,
   "marketing_stripe": {
     "text": "",
     "link": ""
