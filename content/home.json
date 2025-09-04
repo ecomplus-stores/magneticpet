@@ -51,23 +51,6 @@
       "sort": "views"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/gatos.png",
-          "link": "https://magneticpet.netlify.app/colar-elizabetano-ultra-leve-pets"
-        },
-        {
-          "img": "/img/uploads/caes.png",
-          "link": "https://magneticpet.netlify.app/produtos-para-caes"
-        },
-        {
-          "img": "/img/uploads/cavalos.png",
-          "link": "https://magneticpet.netlify.app/manta-de-trabalho-infravermelho"
-        }
-      ]
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
