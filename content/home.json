@@ -35,6 +35,10 @@
       "headless": true
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/cavalo-fachada.png",
       "mobile_img": "/img/uploads/cavalo-fachadamobile.png",
@@ -65,10 +69,6 @@
           "mobile_img": "/img/uploads/home1-cao-mob.png"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
