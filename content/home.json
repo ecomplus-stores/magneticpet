@@ -20,17 +20,18 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "responsive-banner",
+      "img": "/img/uploads/cavalos-dest.png",
+      "link": "https://magneticpet.netlify.app/pages/terapias-infravermelhos-e-magneticos"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
-      "title": "Os Destaques da Semana ",
-      "link": "https://magneticpet.netlify.app/destaques"
+      "sort": "views",
+      "title": "",
+      "link": "https://magneticpet.netlify.app/produtos-para-cavalos"
     },
     {
       "type": "responsive-banner",
@@ -100,6 +101,10 @@
       "sort": "views",
       "title": "PARA HUMANOS",
       "link": "https://magneticpet.netlify.app/humanos"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
