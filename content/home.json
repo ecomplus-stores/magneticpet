@@ -31,7 +31,8 @@
       "page": 1,
       "sort": "views",
       "title": "",
-      "link": "https://magneticpet.netlify.app/produtos-para-cavalos"
+      "link": "https://magneticpet.netlify.app/produtos-para-cavalos",
+      "headless": true
     },
     {
       "type": "responsive-banner",
