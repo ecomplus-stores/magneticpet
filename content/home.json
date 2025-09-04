@@ -67,26 +67,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "65e72bc987ab487fbfd67aec:categories:Para Cães:/produtos-para-caes",
-      "sort": "views",
-      "title": "PARA CÃES ",
-      "link": "https://magneticpet.netlify.app/produtos-para-caes"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "65d5113a87ab487fbfc0707f:categories:Para Humanos:/humanos",
-      "sort": "views",
-      "title": "PARA HUMANOS",
-      "link": "https://magneticpet.netlify.app/humanos"
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
