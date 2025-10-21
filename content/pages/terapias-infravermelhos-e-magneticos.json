@@ -49,14 +49,6 @@
       "markdown": "<!--StartFragment-->\n\n**Para Tendinites, Desmites (Lesões de Ligamento) e Ovas:**\n\n* **Enfermidade:** Inflamação nos tendões e ligamentos, inchaços (ovas) após esforço ou por ficarem parados na baia.\n* **Solução:** As **Caneleiras Terapêuticas** (de Trabalho ou Repouso) usam o infravermelho para ativar a circulação, \"lavando\" a inflamação da área, acelerando a cicatrização dos tecidos e reduzindo o inchaço.\n\n<!--EndFragment-->"
     },
     {
-      "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n**Para Ansiedade, Tensão na Nuca e Dores de ATM:**\n\n* **Enfermidade:** Cavalos ansiosos, tensos, que rangem os dentes ou resistem à embocadura.\n* **Solução:** A **Máscara Calmante** com infravermelho longo promove um relaxamento profundo na musculatura da nuca e da mandíbula, aliviando o estresse e a dor.\n\n<!--EndFragment-->"
-    },
-    {
-      "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n**Para Traumas, Pancadas e Pós-Operatório:**\n\n* **Enfermidade:** Inchaço e dor após uma pancada ou cirurgia.\n* **Solução:** O **Porta-Bolsa GELO/Gel Quente-Frio** é a primeira linha de defesa, permitindo a aplicação correta da crioterapia (gelo) para parar a inflamação aguda.\n\n<!--EndFragment-->"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -71,7 +63,24 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\nNão trate apenas os sintomas. Invista na recuperação e prevenção com as terapias avançadas da Magnetic Pet. Explore nossa linha completa de produtos para cavalos e ofereça a tecnologia que seu campeão merece.\n\n<!--EndFragment-->"
+      "markdown": "<!--StartFragment-->\n\n**Para Ansiedade, Tensão na Nuca e Dores de ATM:**\n\n* **Enfermidade:** Cavalos ansiosos, tensos, que rangem os dentes ou resistem à embocadura.\n* **Solução:** A **Máscara Calmante** com infravermelho longo promove um relaxamento profundo na musculatura da nuca e da mandíbula, aliviando o estresse e a dor.\n\n<!--EndFragment-->"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/mascara-calmante-magneticpet-1.png",
+          "link": "https://magneticpet.netlify.app/mascaras"
+        },
+        {
+          "img": "/img/uploads/mascara-calmante-para-equinos-com-orelha-magneticpet-3.jpg",
+          "link": "https://magneticpet.netlify.app/mascaras"
+        }
+      ]
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n**Para Traumas, Pancadas e Pós-Operatório:**\n\n* **Enfermidade:** Inchaço e dor após uma pancada ou cirurgia.\n* **Solução:** O **Porta-Bolsa GELO/Gel Quente-Frio** é a primeira linha de defesa, permitindo a aplicação correta da crioterapia (gelo) para parar a inflamação aguda.\n\n<!--EndFragment-->"
     },
     {
       "type": "banners-grid",
@@ -81,6 +90,10 @@
           "link": "https://magneticpet.netlify.app/porta-bolsa-gelogel-quente-frio---mod-1"
         }
       ]
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\nNão trate apenas os sintomas. Invista na recuperação e prevenção com as terapias avançadas da Magnetic Pet. Explore nossa linha completa de produtos para cavalos e ofereça a tecnologia que seu campeão merece.\n\n<!--EndFragment-->"
     },
     {
       "type": "collection-shelf",
