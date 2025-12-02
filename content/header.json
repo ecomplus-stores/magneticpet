@@ -9,7 +9,7 @@
     "full_width": true
   },
   "menu_all_departments": true,
-  "centralized_logo": false,
+  "centralized_logo": true,
   "marketing_stripe": {
     "text": "",
     "link": ""
@@ -17,7 +17,7 @@
   "alphabetical_order_submenu": true,
   "name_all_departments": "TODA LOJA",
   "search_input": true,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "full_width_submenu": true,
   "contacts_stripe": {
     "pages": [
