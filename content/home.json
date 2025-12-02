@@ -3,6 +3,19 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2025-12-02T20:51:34.056Z",
+          "end": "",
+          "img": "/img/uploads/dores-cavalos.png",
+          "link": "https://magneticpet.netlify.app/pages/terapias-infravermelhos-e-magneticos"
+        }
+      ]
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
