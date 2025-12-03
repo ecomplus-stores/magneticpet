@@ -52,23 +52,6 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/cavalo-fachada.png",
-      "mobile_img": "/img/uploads/cavalo-fachadamobile.png",
-      "link": "https://magneticpet.netlify.app/produtos-para-cavalos"
-    },
-    {
-      "page": 1,
-      "title": "PARA EQUINOS ",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://magneticpet.netlify.app/produtos-para-cavalos",
-      "limit": 12,
-      "collection_id": "65e7465a87ab487fbfd6b764:categories:Para Cavalos:/produtos-para-cavalos",
-      "sort": "views"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
