@@ -53,19 +53,14 @@
       "enabled": true
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "img": "/img/uploads/home1-cao1.png",
-          "link": "https://magneticpet.netlify.app/produtos-para-caes",
-          "alt": "MAGNETIC PET® - Produtos Terapêuticos para Cavalos ",
-          "start": "2024-02-21T17:55:21.227Z",
-          "end": "",
-          "mobile_img": "/img/uploads/home1-cao-mob.png"
-        }
-      ]
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "68f78955578b5f7954d65430:collections:Para Artrose, Artrite e Dores Articulares (Jarrete e Joelho):/para-artrose-artrite-e-dores-articulares-jarrete-e-joelho",
+      "sort": "sales",
+      "link": "https://magneticpet.netlify.app/pages/lesoes-cavalos",
+      "title": "MagneticPet: A tecnologia que acelera a recuperação e alivia as lesões do seu cavalo."
     }
   ]
 }
