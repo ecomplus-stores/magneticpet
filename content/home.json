@@ -19,15 +19,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/caes.png",
+          "img": "/img/uploads/sa.png",
           "link": "https://magneticpet.netlify.app/produtos-para-caes-e-gatos"
         },
         {
-          "img": "/img/uploads/cavalo.png",
+          "img": "/img/uploads/ma.png",
           "link": "https://magneticpet.netlify.app/produtos-para-cavalos"
         },
         {
-          "img": "/img/uploads/gatos.png",
+          "img": "/img/uploads/hn.png",
           "link": "https://magneticpet.netlify.app/produtos-para-caes-e-gatos"
         }
       ]
