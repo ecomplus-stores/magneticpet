@@ -19,10 +19,6 @@
       "type": "collection-retail",
       "enabled": true,
       "sort": "sales"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
