@@ -45,6 +45,23 @@
       "sort": "views"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cavalo11.png",
+          "link": "https://magneticpet.netlify.app/mantas-selas-trabalho"
+        },
+        {
+          "img": "/img/uploads/cavalo12.png",
+          "link": "https://magneticpet.netlify.app/pages/terapias-infravermelhos-e-magneticos"
+        },
+        {
+          "img": "/img/uploads/cavalo13.png",
+          "link": "https://magneticpet.netlify.app/caneleiras"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
