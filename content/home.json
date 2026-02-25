@@ -84,6 +84,20 @@
       "sort": "sales",
       "link": "https://magneticpet.netlify.app/produtos-para-caes-e-gatos",
       "title": "Conforto e Cuidado para seu Pet"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/humanos-magneticpet1.png",
+          "mobile_img": "/img/uploads/humanosm.png",
+          "link": "https://magneticpet.netlify.app/humanos"
+        }
+      ]
     }
   ]
 }
