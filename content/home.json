@@ -38,14 +38,15 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
       "page": 1,
-      "sort": "views",
       "title": "",
+      "shuffle": false,
+      "headless": true,
+      "type": "collection-shelf",
       "link": "https://magneticpet.netlify.app/produtos-para-cavalos",
-      "headless": true
+      "limit": 12,
+      "collection_id": "65e7465a87ab487fbfd6b764:categories:Cavalos:/produtos-para-cavalos",
+      "sort": "views"
     },
     {
       "type": "responsive-banner",
