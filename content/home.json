@@ -20,6 +20,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -47,10 +51,6 @@
       "type": "responsive-banner",
       "img": "/img/uploads/cssa.png",
       "link": "https://magneticpet.netlify.app/pages/terapias-infravermelhos-e-magneticos"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
