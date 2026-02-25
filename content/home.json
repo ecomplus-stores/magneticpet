@@ -62,6 +62,20 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2026-02-25T06:07:54.513Z",
+          "end": "",
+          "img": "/img/uploads/pets.png",
+          "mobile_img": "/img/uploads/pets-m.png",
+          "link": "https://magneticpet.netlify.app/produtos-para-caes-e-gatos"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
