@@ -5,6 +5,19 @@
   "body": "## **Uma Nova Abordagem para a Saúde do Seu Melhor Amigo**\n\nVer nosso companheiro enfrentar dores ou limitações físicas é um desafio emocional para qualquer tutor. Há mais de 10 anos, a **Magnetic Pet** se dedica a transformar essa realidade, unindo tecnologia de ponta e cuidado preventivo em soluções não invasivas que já beneficiaram milhares de pets em todo o país.\n\nNossos produtos utilizam duas tecnologias fundamentais que atuam diretamente no bem-estar e na longevidade do seu cão:\n\n**Terapia Magnética:** Através de campos magnéticos estrategicamente posicionados, ajudamos a melhorar o fluxo sanguíneo e a oxigenação celular. Isso acelera o transporte de nutrientes para áreas lesionadas, otimizando a regeneração natural do organismo.\n\n**Infravermelho Longo:** Atuando como um anti-inflamatório natural, o infravermelho emite ondas que penetram profundamente nos tecidos, promovendo o relaxamento muscular e a redução significativa da dor. É o alívio essencial para casos de displasias, artrites ou recuperações pós-cirúrgicas.\n\nCom a experiência de quem é pioneira no setor, a **Magnetic Pet** oferece ao seu amigo um tratamento contínuo e eficaz, garantindo que o caminho para a recuperação seja feito com o máximo de conforto, dignidade e carinho.",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2026-02-27T03:46:42.463Z",
+          "end": "",
+          "img": "/img/uploads/cachorrosespecifd.png",
+          "mobile_img": "/img/uploads/cachorrosespecif.png"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
