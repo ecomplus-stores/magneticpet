@@ -37,15 +37,16 @@
     ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Mais Sobre Nossos Produtos",
     "list": [
       {
         "text": "Como Magnetic Pet Ajuda no Tratamento de Doenças Equinas",
-        "url": "https://magneticpet.netlify.app/pages/lesoes-cavalos"
+        "url": "https://magneticpet.netlify.app/pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho"
       },
       {
-        "text": "Terapia Preventiva com Infravermelho para Cavalos Atletas"
+        "text": "Terapia Preventiva com Infravermelho para Cavalos Atletas",
+        "url": "https://magneticpet.netlify.app/pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho"
       },
       {
         "text": "Tratamento Terapêutico para Cães: Alívio da Dor e Recuperação Natural"
