@@ -30,7 +30,41 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "69a10b2ec650040a8ca6f3a1:collections:Cães: Artrose, Artrite e Displasia (Dores Articulares):/caes-artrose-artrite-e-displasia-dores-articulares",
+      "sort": "sales",
+      "link": "https://magneticpet.netlify.app/caes-artrose-artrite-e-displasia-dores-articulares",
+      "title": "RECOMENDAMOS:"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "## **Hérnias de Disco, Dores na Coluna e Problemas Neurológicos**\n\n**Problema:** Cão arrastando as patas, dor nas costas, paralisia parcial.\n\n**Como a Terapia Ajuda:** Relaxamento muscular profundo, redução da compressão nervosa através da diminuição do edema e relaxamento muscular, melhora da circulação local."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "69a10b2ec650040a8ca6f3a1:collections:Cães: Artrose, Artrite e Displasia (Dores Articulares):/caes-artrose-artrite-e-displasia-dores-articulares",
+      "sort": "views",
+      "link": "https://magneticpet.netlify.app/caes-artrose-artrite-e-displasia-dores-articulares"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "### **Recuperação Pós-Operatória e Cicatrização**\n\n**Problema:** Cicatrizes lentas, risco de infecção, dor pós-cirúrgica.\n\n**Como a Terapia Ajuda:** Estimula a microcirculação e a síntese de colágeno, acelerando o fechamento da pele e a reparação tecidual profunda."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65e72bc987ab487fbfd67aec:categories:Cães & Gatos:/produtos-para-caes-e-gatos",
+      "link": "https://magneticpet.netlify.app/produtos-para-caes-e-gatos",
+      "sort": "news"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "Dê ao seu amigo o alívio que ele merece.\n\nD﻿úvidas, [fale conosco pelo whatsapp](https://wa.me/5511994365005)"
     }
   ]
 }
