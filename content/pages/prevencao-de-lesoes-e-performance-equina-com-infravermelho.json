@@ -5,6 +5,19 @@
   "meta_title": "O Segredo da Longevidade: Terapia Preventiva com Infravermelho para Cavalos Atletas",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2026-02-27T02:38:00.175Z",
+          "end": "",
+          "img": "/img/uploads/prevencaocavalosd.png",
+          "mobile_img": "/img/uploads/prevencaocavalos.png"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
