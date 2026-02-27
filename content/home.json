@@ -88,10 +88,10 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2026-02-27T00:25:20.247Z",
           "end": "",
           "img": "/img/uploads/humanos-magneticpet1.png",
           "mobile_img": "/img/uploads/humanosm.png",
