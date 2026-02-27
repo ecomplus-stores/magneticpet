@@ -24,7 +24,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "### **Guia de Tratamento por Patologia**\n\n**Tendinites e Desmites (Lesões de Tendão e Ligamento)**\n\n**Problema:** Dores intensas, claudicação (manqueira), longo tempo de parada.\n\n**Como a Terapia Ajuda:** O infravermelho reduz a inflamação aguda e crônica, enquanto os magnetos estimulam a regeneração das fibras de colágeno, prevenindo cicatrizes rígidas."
+      "markdown": "### **Guia de Tratamento por Patologia**\n\n**Tendinites e Desmites (Lesões de Tendão e Ligamento)** \n\n**Problema:** Dores intensas, claudicação (manqueira), inchaço nas canelas e longo tempo de parada.\n\n**Como a Terapia Ajuda:** O infravermelho reduz a inflamação aguda e crônica, enquanto os magnetos estimulam a regeneração das fibras de colágeno, prevenindo cicatrizes rígidas.\n\nAs Caneleiras Terapêuticas reduzem a inflamação aguda e crônica, diminuindo drasticamente o tempo de baia."
     },
     {
       "type": "collection-shelf",
@@ -38,7 +38,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "### **Artrites, Artroses e Dores Articulares**\n\n**Problema:** Rigidez, inchaço nas articulações (boletos, jarretes, joelhos), perda de performance.\n\n**Como a Terapia Ajuda:** Acelera a reabsorção de líquidos (edemas), alivia a dor crônica e melhora a lubrificação articular."
+      "markdown": "### **Artrites, Artroses e Dores Articulares**\n\n**Problema:** Rigidez, inchaço nas articulações (boletos, jarretes, joelhos), perda de performance.\n\nDesgaste em boletos, jarretes e joelhos, causando perda de performance e dor ao caminhar.\n\n**Como a Terapia Ajuda:** Acelera a reabsorção de líquidos (edemas), alivia a dor crônica e melhora a lubrificação articular.\n\n**Jarreteiras e Joelheiras Magnéticas** melhoram a lubrificação articular, devolvendo a mobilidade ao animal idoso ou atleta."
     },
     {
       "type": "collection-shelf",
@@ -52,7 +52,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "### **Dores Nas Costas, Lombalgias e Contraturas Musculares**\n\n**Problema:** Cavalo \"pesado\", dificuldade em engajar o posterior, reações ao selar.\n\n**Como a Terapia Ajuda:** Relaxamento profundo das fibras musculares, eliminação de pontos de tensão, aumento do fluxo sanguíneo para a região dorsal."
+      "markdown": "### **Dores Nas Costas, Lombalgias e Contraturas Musculares**\n\n**Problema:** Resistência à sela, dificuldade em engajar o posterior e sensibilidade ao toque.\n\n**Como a Terapia Ajuda:** Relaxamento profundo das fibras musculares, eliminação de pontos de tensão, aumento do fluxo sanguíneo para a região dorsal.\n\nNossas **Mantas de Trabalho e Descanso** **com Infravermelho** promovem relaxamento muscular profundo e eliminam pontos de tensão antes e depois do exercício."
     },
     {
       "type": "collection-shelf",
@@ -74,7 +74,9 @@
       "limit": 12,
       "page": 1,
       "link": "https://magneticpet.netlify.app/pos-operatorio-e-feridas-de-dificil-cicatrizacao",
-      "title": "CONFIRA AQUI"
+      "title": "CONFIRA AQUI",
+      "collection_id": "69a0ef55c650040a8ca6e97e:collections:Pós-Operatório e Feridas de Difícil Cicatrização:/pos-operatorio-e-feridas-de-dificil-cicatrizacao",
+      "sort": "views"
     },
     {
       "type": "custom-content",
