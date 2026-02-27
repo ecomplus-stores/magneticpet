@@ -37,9 +37,35 @@
     ]
   },
   "links_2": {
-    "list_categories": false,
-    "title": "",
-    "list": []
+    "list_categories": true,
+    "title": "Mais Sobre Nossos Produtos",
+    "list": [
+      {
+        "text": "Como Magnetic Pet Ajuda no Tratamento de Doenças Equinas",
+        "url": "https://magneticpet.netlify.app/pages/lesoes-cavalos"
+      },
+      {
+        "text": "Terapia Preventiva com Infravermelho para Cavalos Atletas"
+      },
+      {
+        "text": "Tratamento Terapêutico para Cães: Alívio da Dor e Recuperação Natural"
+      },
+      {
+        "text": "Prevenção e Qualidade de Vida para Cães: O Poder do Infravermelho Longo"
+      },
+      {
+        "text": "Tratamento Terapêutico para Gatos: Alívio da Dor e Recuperação Natural"
+      },
+      {
+        "text": "Prevenção e Qualidade de Vida para Gatos: O Poder do Infravermelho Longo"
+      },
+      {
+        "text": "Tratamento de Dores e Lesões com Magnetoterapia e Infravermelho"
+      },
+      {
+        "text": "Alta Performance e Prevenção: O Poder do Infravermelho Longo"
+      }
+    ]
   },
   "contacts": {
     "title": "CONTATOS",
