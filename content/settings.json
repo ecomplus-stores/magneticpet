@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#003765",
   "theme": {
-    "bootswatch": "flatly",
+    "bootswatch": "_",
     "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
@@ -14,7 +14,7 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Montserrat",
   "favicon": "/img/uploads/icon1.png",
   "icons_font": "line-awesome",
   "country_code": "BR",
