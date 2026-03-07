@@ -48,15 +48,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/cavalo11.png",
+          "img": "/img/uploads/cavalo11-mantas-home.png",
           "link": "https://magneticpet.netlify.app/mantas-selas-trabalho"
         },
         {
-          "img": "/img/uploads/cavalo12.png",
-          "link": "https://magneticpet.netlify.app/pages/terapias-infravermelhos-e-magneticos"
+          "img": "/img/uploads/cavalo12_trat.home.png",
+          "link": "https://magneticpet.netlify.app/pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho"
         },
         {
-          "img": "/img/uploads/cavalo13.png",
+          "img": "/img/uploads/cavalo13-caneleiras-home.png",
           "link": "https://magneticpet.netlify.app/caneleiras"
         }
       ]
