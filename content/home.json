@@ -15,7 +15,7 @@
         },
         {
           "img": "/img/uploads/humanos-magneticpet-home-mv.png",
-          "link": "https://magneticpet.netlify.app/humanos"
+          "link": "https://magneticpet.netlify.app/produtos-terapeuticos-para-humanos"
         }
       ]
     },
@@ -95,9 +95,19 @@
           "end": "",
           "img": "/img/uploads/humanos-magneticpet-home1.png",
           "mobile_img": "/img/uploads/humanos-magneticpet-home-m.png",
-          "link": "https://magneticpet.netlify.app/humanos"
+          "link": "https://magneticpet.netlify.app/produtos-terapeuticos-para-humanos"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6679784cf4e6d85ab2b66086:categories:Para Toda Família:/produtos-terapeuticos-para-humanos",
+      "sort": "news",
+      "link": "https://magneticpet.netlify.app/produtos-terapeuticos-para-humanos",
+      "title": "Saúde e recuperação para você,confira"
     }
   ]
 }
