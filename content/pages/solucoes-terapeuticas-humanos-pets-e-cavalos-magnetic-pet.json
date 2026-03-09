@@ -1,0 +1,51 @@
+{
+  "title": "Soluções Terapêuticas: Humanos, Pets e Cavalos | Magnetic Pet",
+  "meta_title": "Soluções Terapêuticas: Humanos, Pets e Cavalos | Magnetic Pet",
+  "meta_description": "Tecnologia avançada em recuperação e alívio de dor. Conheça nossas soluções terapêuticas para humanos, cães, gatos e cavalos de alta performance. Recupere a mobilidade hoje!",
+  "body": "## Tecnologia que cura. Cuidado que conecta.\n\nA ciência da bioengenharia aplicada ao bem-estar e à recuperação acelerada.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "## Para seu Atleta (Cavalos) | Performance e Recuperação\n\nO alto rendimento exige o máximo de cuidado. Nossas soluções terapêuticas para equinos focam na saúde dos tendões, ligamentos e musculatura, prevenindo lesões por esforço repetitivo e acelerando o \"turnover\" de cura para que o seu campeão nunca perca o ritmo das pistas."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65e7465a87ab487fbfd6b764:categories:Cavalos:/produtos-para-cavalos",
+      "sort": "news",
+      "title": "Equipar meu Campeão"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "## Para seu Melhor Amigo (Pets) | Longevidade e Conforto\n\nProteja quem te dá amor incondicional. Oferecemos suporte terapêutico especializado para pets com displasias, dores articulares ou em reabilitação pós-cirúrgica. Tecnologia ergonômica que devolve a mobilidade e garante mais anos de vida ativa ao seu animal."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65e72bc987ab487fbfd67aec:categories:Cães & Gatos:/produtos-para-caes-e-gatos",
+      "sort": "news",
+      "title": "Cuidar do meu Pet"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "## Para Você | Equilíbrio e Vitalidade\n\n<!--StartFragment-->\n\nSupere as limitações físicas com terapias que atuam na raiz da dor. Nossas soluções aceleram a regeneração celular e reduzem processos inflamatórios, permitindo que você retome sua rotina e performance esportiva com total segurança e sem métodos invasivos.\n\n<!--EndFragment-->"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6679784cf4e6d85ab2b66086:categories:Para Toda Família:/produtos-terapeuticos-para-humanos",
+      "sort": "news",
+      "title": "Ver Soluções para Mim"
+    }
+  ]
+}
