@@ -1,0 +1,55 @@
+{
+  "title": "Soluções de Recuperação",
+  "meta_title": "Recuperação de Lesões: Soluções para Humanos, Pets e Cavalos | Magnetic Pet",
+  "meta_description": "Recupere a mobilidade e elimine a dor. Tecnologia avançada em bioengenharia para tratamentos não invasivos em humanos, animais de estimação e cavalos de alta performance. Confira!",
+  "body": "## A ciência da recuperação, para quem você ama e para você.\n\nTecnologia de ponta em regeneração e alívio de dor, adaptada para cada anatomia.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "## Cavalos | Potência e Proteção\n\nNo mundo equestre, cada segundo conta. Nossas soluções para equinos de alta performance focam na saúde tendínea e muscular, prevenindo lesões por esforço e otimizando o tempo de cura para que o campeão volte às pistas com segurança."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "68f78881578b5f7954d6524e:collections:Para Dores nas Costas, Sensibilidade na Cernelha e Tensão Muscular:/terapeuticos-cavalos",
+      "sort": "views",
+      "title": "Proteger meu campeão"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "## Pets | Longevidade e Conforto\n\nVer seu melhor amigo com dificuldade de andar é doloroso. Seja para displasias, recuperação pós-cirúrgica ou dores da idade (artrose), oferecemos soluções ergonômicas que garantem mais anos de brincadeiras e menos desconforto."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65e72bc987ab487fbfd67aec:categories:Cães & Gatos:/produtos-para-caes-e-gatos",
+      "sort": "views",
+      "title": "Dar mais conforto ao meu pet"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "## Humanos | Performance e Alívio\n\nNão deixe que dores crônicas ou lesões esportivas limitem sua rotina. Nossa tecnologia atua diretamente na inflamação, acelerando a regeneração tecidual e devolvendo sua liberdade de movimento sem métodos invasivos."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6679784cf4e6d85ab2b66086:categories:Para Toda Família:/produtos-terapeuticos-para-humanos",
+      "sort": "views",
+      "title": "Performance e Alívio, confira"
+    }
+  ]
+}
