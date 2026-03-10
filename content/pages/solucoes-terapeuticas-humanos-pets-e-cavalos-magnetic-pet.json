@@ -17,9 +17,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65e7465a87ab487fbfd6b764:categories:Cavalos:/produtos-para-cavalos",
+      "collection_id": "69af754dc650040a8caee7de:collections:Terapêuticos - Linha Equina Profissional:/terapeuticos-linha-equina-profissional",
       "sort": "news",
-      "title": "Equipar meu Campeão"
+      "title": "Equipar meu Campeão",
+      "link": "https://magneticpet.netlify.app/terapeuticos-linha-equina-profissional"
     },
     {
       "type": "custom-content",
@@ -30,9 +31,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65e72bc987ab487fbfd67aec:categories:Cães & Gatos:/produtos-para-caes-e-gatos",
+      "collection_id": "69af76f6c650040a8caee8d4:collections:Terapêuticos - Linha Pet:/terapeuticos-linha-pet",
       "sort": "news",
-      "title": "Cuidar do meu Pet"
+      "title": "Cuidar do meu Pet",
+      "link": "https://magneticpet.netlify.app/terapeuticos-linha-pet"
     },
     {
       "type": "custom-content",
@@ -43,9 +45,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6679784cf4e6d85ab2b66086:categories:Para Toda Família:/produtos-terapeuticos-para-humanos",
+      "collection_id": "69af77d7c650040a8caee973:collections:Terapêuticos - Linha Para Você:/terapeuticos-linha-para-voce",
       "sort": "news",
-      "title": "Ver Soluções para Mim"
+      "title": "Ver Soluções ",
+      "link": "https://magneticpet.netlify.app/terapeuticos-linha-para-voce"
     }
   ]
 }
