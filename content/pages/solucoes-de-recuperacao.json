@@ -34,9 +34,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65e72bc987ab487fbfd67aec:categories:Cães & Gatos:/produtos-para-caes-e-gatos",
+      "collection_id": "69af71d8c650040a8caee5fe:collections:Mobilidade e Bem-Estar Pets:/mobilidade-e-bem-estar-pets",
       "sort": "views",
-      "title": "Dar mais conforto ao meu pet"
+      "title": "Dar mais conforto ao meu pet",
+      "link": "https://magneticpet.netlify.app/mobilidade-e-bem-estar-pets"
     },
     {
       "type": "custom-content",
