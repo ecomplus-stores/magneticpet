@@ -5,6 +5,18 @@
   "meta_description": "Conheça as principais lesões em cavalos e como os produtos Magnetic Pet oferecem prevenção e alívio para dores na coluna, articulações e musculatura. Cuide do seu campeão!",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2026-03-10T20:34:14.007Z",
+          "end": "",
+          "img": "/img/uploads/lesoes-cavalos.png"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
