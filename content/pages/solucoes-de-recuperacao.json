@@ -48,9 +48,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6679784cf4e6d85ab2b66086:categories:Para Toda Família:/produtos-terapeuticos-para-humanos",
-      "sort": "views",
-      "title": "Performance e Alívio, confira"
+      "collection_id": "69af734fc650040a8caee6c9:collections:Conforto e Bem-estar para você:/conforto-e-bem-estar-para-voce",
+      "sort": "sales",
+      "title": "Performance e Alívio, confira",
+      "link": "https://magneticpet.netlify.app/conforto-e-bem-estar-para-voce"
     }
   ]
 }
