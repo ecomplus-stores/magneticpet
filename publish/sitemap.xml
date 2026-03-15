@@ -560,19 +560,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://magneticpet.netlify.app/pages/cavalos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/faq</loc>
+      <loc>https://magneticpet.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -584,13 +578,19 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/pagamentos</loc>
+      <loc>https://magneticpet.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://magneticpet.netlify.app/pages/lesoes-cavalos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -644,13 +644,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/viver-mais-e-melhor-terapia-preventiva-e-suporte-com-infravermelho-para-caes</loc>
+      <loc>https://magneticpet.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/trocas</loc>
+      <loc>https://magneticpet.netlify.app/pages/viver-mais-e-melhor-terapia-preventiva-e-suporte-com-infravermelho-para-caes</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -680,6 +680,12 @@
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -689,12 +695,6 @@
       <loc>https://magneticpet.netlify.app/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
