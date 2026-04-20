@@ -572,13 +572,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/faq</loc>
+      <loc>https://magneticpet.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/entrega</loc>
+      <loc>https://magneticpet.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -590,13 +590,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/pagamentos</loc>
+      <loc>https://magneticpet.netlify.app/pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho</loc>
+      <loc>https://magneticpet.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -614,13 +614,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/solucoes-de-recuperacao</loc>
+      <loc>https://magneticpet.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/sobre-nos</loc>
+      <loc>https://magneticpet.netlify.app/pages/solucoes-de-recuperacao</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -668,13 +668,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/blog</loc>
+      <loc>https://magneticpet.netlify.app/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/search</loc>
+      <loc>https://magneticpet.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
