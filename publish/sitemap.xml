@@ -566,13 +566,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/contato</loc>
+      <loc>https://magneticpet.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/entrega</loc>
+      <loc>https://magneticpet.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -638,12 +638,6 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://magneticpet.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -656,7 +650,19 @@
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/404</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -669,12 +675,6 @@
   
     <url>
       <loc>https://magneticpet.netlify.app/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
