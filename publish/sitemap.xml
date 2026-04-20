@@ -560,12 +560,6 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/cavalos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://magneticpet.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -602,13 +596,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/privacidade</loc>
+      <loc>https://magneticpet.netlify.app/pages/cavalos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/sobre-nos</loc>
+      <loc>https://magneticpet.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -627,6 +621,12 @@
   
     <url>
       <loc>https://magneticpet.netlify.app/pages/solucoes-terapeuticas-humanos-pets-e-cavalos-magnetic-pet</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
