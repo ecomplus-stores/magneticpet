@@ -560,6 +560,12 @@
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -584,12 +590,6 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://magneticpet.netlify.app/pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -602,13 +602,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/sobre-nos</loc>
+      <loc>https://magneticpet.netlify.app/pages/recuperacao-e-conforto-como-magnetic-pet-ajuda-no-tratamento-de-doencas-caninas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/recuperacao-e-conforto-como-magnetic-pet-ajuda-no-tratamento-de-doencas-caninas</loc>
+      <loc>https://magneticpet.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -680,15 +680,15 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://magneticpet.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>
