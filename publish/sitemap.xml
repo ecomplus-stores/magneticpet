@@ -554,25 +554,25 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/cavalos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://magneticpet.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/pages/cavalos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/pages/faq</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
