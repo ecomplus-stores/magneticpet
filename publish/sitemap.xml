@@ -626,12 +626,6 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/terapias-infravermelhos-e-magneticos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://magneticpet.netlify.app/pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -639,6 +633,12 @@
   
     <url>
       <loc>https://magneticpet.netlify.app/pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/pages/terapias-infravermelhos-e-magneticos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
