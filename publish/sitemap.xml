@@ -344,6 +344,12 @@
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/cotoveleira-ortopedica-para-caes-displasia-e-calo-de-apoio-c579</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/produtos-para-caes-e-gatos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -560,13 +566,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/entrega</loc>
+      <loc>https://magneticpet.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/contato</loc>
+      <loc>https://magneticpet.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -590,7 +596,7 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho</loc>
+      <loc>https://magneticpet.netlify.app/pages/recuperacao-e-conforto-como-magnetic-pet-ajuda-no-tratamento-de-doencas-caninas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -602,13 +608,7 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/recuperacao-e-conforto-como-magnetic-pet-ajuda-no-tratamento-de-doencas-caninas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/pages/sobre-nos</loc>
+      <loc>https://magneticpet.netlify.app/pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -650,7 +650,19 @@
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/404</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -662,25 +674,19 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://magneticpet.netlify.app/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/app/index</loc>
+      <loc>https://magneticpet.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/admin/index</loc>
+      <loc>https://magneticpet.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
