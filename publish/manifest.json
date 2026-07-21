@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.4b76943e527e37d10ff1f3845e57c117.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.3868c0109de179040f5246ee7bfa4ec7.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e16d75584840bdc4940f85c757f386a5.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.2655e555e5e65ce087faa3911c847d08.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.3620135d0cadb88d10fcf6040dcec463.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "MAGNETIC PET® - Produtos Terapêuticos para Cães, Gatos e Cavalos ",
+  "short_name": "MAGNETIC PET®",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja Online: Encontre produtos para o bem-estar de cães, gatos e cavalos. Auxílio na diminuição de dores, inflamações. Totalmente natural. Artrose, bico de papagaio, displasia, tendinite, velhice, dificuldade para caminhar, sobreosso, malformação, artrite. Envio para Todo Brasil. ",
+  "background_color": "#ffffff",
+  "theme_color": "#003765"
+}
