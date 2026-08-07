@@ -512,6 +512,12 @@
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/marca-magnetic-pet</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/destaques</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -578,9 +584,9 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/marca-magnetic-pet</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <loc>https://magneticpet.netlify.app/pages/cavalos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
     </url>
   
     <url>
@@ -639,12 +645,6 @@
   
     <url>
       <loc>https://magneticpet.netlify.app/pages/solucoes-de-recuperacao</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/pages/cavalos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -710,15 +710,15 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://magneticpet.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>
