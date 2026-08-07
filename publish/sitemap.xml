@@ -626,13 +626,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/recuperacao-e-conforto-como-magnetic-pet-ajuda-no-tratamento-de-doencas-caninas</loc>
+      <loc>https://magneticpet.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/privacidade</loc>
+      <loc>https://magneticpet.netlify.app/pages/recuperacao-e-conforto-como-magnetic-pet-ajuda-no-tratamento-de-doencas-caninas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -668,13 +668,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/viver-mais-e-melhor-terapia-preventiva-e-suporte-com-infravermelho-para-caes</loc>
+      <loc>https://magneticpet.netlify.app/pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho</loc>
+      <loc>https://magneticpet.netlify.app/pages/viver-mais-e-melhor-terapia-preventiva-e-suporte-com-infravermelho-para-caes</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -704,7 +704,7 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/admin/index</loc>
+      <loc>https://magneticpet.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
@@ -716,7 +716,7 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/app/index</loc>
+      <loc>https://magneticpet.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
