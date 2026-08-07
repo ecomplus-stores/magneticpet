@@ -602,6 +602,12 @@
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/pages/faq</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/pages/lesoes-cavalos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -621,12 +627,6 @@
   
     <url>
       <loc>https://magneticpet.netlify.app/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -668,13 +668,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/trocas</loc>
+      <loc>https://magneticpet.netlify.app/pages/viver-mais-e-melhor-terapia-preventiva-e-suporte-com-infravermelho-para-caes</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/viver-mais-e-melhor-terapia-preventiva-e-suporte-com-infravermelho-para-caes</loc>
+      <loc>https://magneticpet.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
