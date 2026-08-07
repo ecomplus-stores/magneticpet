@@ -596,13 +596,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/faq</loc>
+      <loc>https://magneticpet.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/entrega</loc>
+      <loc>https://magneticpet.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -656,7 +656,7 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/trocas</loc>
+      <loc>https://magneticpet.netlify.app/pages/terapias-infravermelhos-e-magneticos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -668,13 +668,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/viver-mais-e-melhor-terapia-preventiva-e-suporte-com-infravermelho-para-caes</loc>
+      <loc>https://magneticpet.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/terapias-infravermelhos-e-magneticos</loc>
+      <loc>https://magneticpet.netlify.app/pages/viver-mais-e-melhor-terapia-preventiva-e-suporte-com-infravermelho-para-caes</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -692,15 +692,15 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://magneticpet.netlify.app/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
