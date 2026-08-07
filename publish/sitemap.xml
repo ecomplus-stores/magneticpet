@@ -374,6 +374,72 @@
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/destaques</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/terapeuticos-cavalos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/para-artrose-artrite-e-dores-articulares-jarrete-e-joelho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/pos-operatorio-e-feridas-de-dificil-cicatrizacao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/caes-artrose-artrite-e-displasia-dores-articulares</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/conforto-e-performance-linha-equina-profissional</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/mobilidade-e-bem-estar-pets</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/conforto-e-bem-estar-para-voce</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/terapeuticos-linha-equina-profissional</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/terapeuticos-linha-pet</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/terapeuticos-linha-para-voce</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/produtos-para-caes-e-gatos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -512,79 +578,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/destaques</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/terapeuticos-cavalos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/para-artrose-artrite-e-dores-articulares-jarrete-e-joelho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/pos-operatorio-e-feridas-de-dificil-cicatrizacao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/caes-artrose-artrite-e-displasia-dores-articulares</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/conforto-e-performance-linha-equina-profissional</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/mobilidade-e-bem-estar-pets</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/conforto-e-bem-estar-para-voce</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/terapeuticos-linha-equina-profissional</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/terapeuticos-linha-pet</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/terapeuticos-linha-para-voce</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://magneticpet.netlify.app/marca-magnetic-pet</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/cavalos</loc>
+      <loc>https://magneticpet.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -596,7 +596,7 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/contato</loc>
+      <loc>https://magneticpet.netlify.app/pages/cavalos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -608,13 +608,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/lesoes-cavalos</loc>
+      <loc>https://magneticpet.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/pagamentos</loc>
+      <loc>https://magneticpet.netlify.app/pages/lesoes-cavalos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -644,6 +644,12 @@
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/pages/solucoes-de-recuperacao</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/pages/solucoes-terapeuticas-humanos-pets-e-cavalos-magnetic-pet</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -656,19 +662,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/solucoes-de-recuperacao</loc>
+      <loc>https://magneticpet.netlify.app/pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://magneticpet.netlify.app/pages/trocas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
