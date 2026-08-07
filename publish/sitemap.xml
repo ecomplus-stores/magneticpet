@@ -650,13 +650,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/terapias-infravermelhos-e-magneticos</loc>
+      <loc>https://magneticpet.netlify.app/pages/solucoes-terapeuticas-humanos-pets-e-cavalos-magnetic-pet</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/solucoes-terapeuticas-humanos-pets-e-cavalos-magnetic-pet</loc>
+      <loc>https://magneticpet.netlify.app/pages/terapias-infravermelhos-e-magneticos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -680,6 +680,12 @@
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/404</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -689,12 +695,6 @@
       <loc>https://magneticpet.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/404</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
