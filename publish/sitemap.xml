@@ -512,6 +512,12 @@
     </url>
   
     <url>
+      <loc>https://magneticpet.netlify.app/marca-magnetic-pet</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://magneticpet.netlify.app/destaques</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -578,19 +584,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/marca-magnetic-pet</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://magneticpet.netlify.app/pages/cavalos</loc>
+      <loc>https://magneticpet.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/contato</loc>
+      <loc>https://magneticpet.netlify.app/pages/cavalos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -614,13 +614,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho</loc>
+      <loc>https://magneticpet.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/pagamentos</loc>
+      <loc>https://magneticpet.netlify.app/pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
