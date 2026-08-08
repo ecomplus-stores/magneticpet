@@ -590,13 +590,13 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/contato</loc>
+      <loc>https://magneticpet.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/entrega</loc>
+      <loc>https://magneticpet.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -632,12 +632,6 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/pages/recuperacao-e-conforto-como-magnetic-pet-ajuda-no-tratamento-de-doencas-caninas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://magneticpet.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -645,6 +639,12 @@
   
     <url>
       <loc>https://magneticpet.netlify.app/pages/solucoes-de-recuperacao</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/pages/recuperacao-e-conforto-como-magnetic-pet-ajuda-no-tratamento-de-doencas-caninas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -686,15 +686,15 @@
     </url>
   
     <url>
-      <loc>https://magneticpet.netlify.app/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://magneticpet.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://magneticpet.netlify.app/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
