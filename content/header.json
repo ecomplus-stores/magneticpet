@@ -23,15 +23,15 @@
     "pages": [
       {
         "title": "LOGIN / ENTRE NA SUA CONTA ",
-        "link": "https://magneticpet.netlify.app/app/#/account/"
+        "link": "https://magneticpet.com.br/app/#/account/"
       },
       {
         "title": "VER PEDIDOS",
-        "link": "https://magneticpet.netlify.app/app/#/account/orders"
+        "link": "https://magneticpet.com.br/app/#/account/orders"
       },
       {
         "title": "SOBRE A EMPRESA",
-        "link": "https://magneticpet.netlify.app/pages/sobre-nos"
+        "link": "https://magneticpet.com.br/pages/sobre-nos"
       },
       {
         "title": "COMO COMPRAR",
