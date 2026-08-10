@@ -4,9 +4,23 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": false,
-    "title": "",
-    "list": []
+    "list_pages": true,
+    "title": "INFORMAÇÕES",
+    "list": [
+      {
+        "text": "SOBRE A EMPRESA"
+      },
+      {
+        "url": "/pages/",
+        "text": "PRIVACIDADE & SEGURANÇA "
+      },
+      {
+        "text": "TROCA & DEVOLUÇÕES"
+      },
+      {
+        "text": "EVENTOS"
+      }
+    ]
   },
   "links_2": {
     "list_categories": false,
