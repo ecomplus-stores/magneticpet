@@ -7,15 +7,15 @@
       "banners": [
         {
           "img": "/img/uploads/caesgatos-magneticpet-home.png",
-          "link": "https://magneticpet.com.br/produtos-para-caes-e-gatos"
+          "link": "https://www.magneticpet.com.br/produtos-para-caes-e-gatos"
         },
         {
           "img": "/img/uploads/cavalos-magneticpet-home.png",
-          "link": "https://magneticpet.com.br/produtos-para-cavalos"
+          "link": "https://www.magneticpet.com.br/produtos-para-cavalos"
         },
         {
           "img": "/img/uploads/humanos-magneticpet-home-mv.png",
-          "link": "https://magneticpet.com.br/produtos-terapeuticos-para-humanos"
+          "link": "https://www.magneticpet.com.br/produtos-terapeuticos-para-humanos"
         }
       ]
     },
@@ -28,7 +28,7 @@
           "start": "2026-03-07T19:12:31.674Z",
           "end": "",
           "img": "/img/uploads/cavalos-magneticpet-vitrine-home.png",
-          "link": "https://magneticpet.com.br/pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho",
+          "link": "https://www.magneticpet.com.br/pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho",
           "mobile_img": "/img/uploads/cavalos-magneticpet-vitrine1-home-m.png"
         }
       ]
@@ -49,15 +49,15 @@
       "banners": [
         {
           "img": "/img/uploads/cavalo11-mantas-home.png",
-          "link": "https://magneticpet.com.br/mantas-selas-trabalho"
+          "link": "https://www.magneticpet.com.br/mantas-selas-trabalho"
         },
         {
           "img": "/img/uploads/cavalo12_trat.home.png",
-          "link": "https://magneticpet.com.br/pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho"
+          "link": "https://www.magneticpet.com.br/pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho"
         },
         {
           "img": "/img/uploads/cavalo13-caneleiras-home.png",
-          "link": "https://magneticpet.com.br/caneleiras"
+          "link": "https://www.magneticpet.com.br/caneleiras"
         }
       ]
     },
@@ -71,7 +71,7 @@
           "end": "",
           "img": "/img/uploads/pets.png",
           "mobile_img": "/img/uploads/pets-m.png",
-          "link": "https://magneticpet.com.br/produtos-para-caes-e-gatos"
+          "link": "https://www.magneticpet.com.br/produtos-para-caes-e-gatos"
         }
       ]
     },
@@ -95,7 +95,7 @@
           "end": "",
           "img": "/img/uploads/humanos-magneticpet-home1.png",
           "mobile_img": "/img/uploads/humanos-magneticpet-home-m.png",
-          "link": "https://magneticpet.com.br/produtos-terapeuticos-para-humanos"
+          "link": "https://www.magneticpet.com.br/produtos-terapeuticos-para-humanos"
         }
       ]
     },
