@@ -32,7 +32,7 @@
       "page": 1,
       "collection_id": "65e7465a87ab487fbfd6b764:categories:Cavalos:/produtos-para-cavalos",
       "sort": "sales",
-      "link": "https://magneticpet.netlify.app/produtos-para-cavalos",
+      "link": "https://www.magneticpet.com.br/produtos-para-cavalos",
       "title": "CONHEÇA NOSSOS PRODUTOS"
     },
     {
@@ -47,7 +47,7 @@
       "collection_id": "68b8816d578b5f7954a012af:categories:Mantas e Capas Descanso:/mantas-capas-descanso",
       "sort": "sales",
       "title": "MANTAS",
-      "link": "https://magneticpet.netlify.app/mantas-capas-descanso"
+      "link": "https://www.magneticpet.com.br/mantas-capas-descanso"
     },
     {
       "type": "custom-content",
@@ -59,7 +59,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "68b8812d578b5f7954a0125b:categories:Mantas e Selas de Trabalho:/mantas-selas-trabalho",
-      "sort": "views"
+      "sort": "views",
+      "link": "https://www.magneticpet.com.br/mantas-selas-trabalho"
     },
     {
       "type": "custom-content",
@@ -72,7 +73,7 @@
       "page": 1,
       "collection_id": "68f78881578b5f7954d6524e:collections:Para Dores nas Costas, Sensibilidade na Cernelha e Tensão Muscular:/terapeuticos-cavalos",
       "sort": "views",
-      "link": "https://magneticpet.netlify.app/terapeuticos-cavalos"
+      "link": "https://www.magneticpet.com.br/terapeuticos-cavalos"
     }
   ]
 }
