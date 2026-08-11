@@ -23,7 +23,8 @@
       "page": 1,
       "collection_id": "68f78881578b5f7954d6524e:collections:Para Dores nas Costas, Sensibilidade na Cernelha e Tensão Muscular:/terapeuticos-cavalos",
       "sort": "views",
-      "title": "Proteger meu campeão"
+      "title": "Proteger meu campeão",
+      "link": "https://www.magneticpet.com.br/protetor-rim"
     },
     {
       "type": "custom-content",
@@ -37,7 +38,7 @@
       "collection_id": "69af71d8c650040a8caee5fe:collections:Mobilidade e Bem-Estar Pets:/mobilidade-e-bem-estar-pets",
       "sort": "views",
       "title": "Dar mais conforto ao meu pet",
-      "link": "https://magneticpet.netlify.app/mobilidade-e-bem-estar-pets"
+      "link": "https://www.magneticpet.com.br/mobilidade-e-bem-estar-pets"
     },
     {
       "type": "custom-content",
@@ -51,7 +52,7 @@
       "collection_id": "69af734fc650040a8caee6c9:collections:Conforto e Bem-estar para você:/conforto-e-bem-estar-para-voce",
       "sort": "sales",
       "title": "Performance e Alívio, confira",
-      "link": "https://magneticpet.netlify.app/conforto-e-bem-estar-para-voce"
+      "link": "https://www.magneticpet.com.br/conforto-e-bem-estar-para-voce"
     }
   ]
 }
