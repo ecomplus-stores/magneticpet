@@ -15,6 +15,15 @@
     {
       "type": "custom-content",
       "markdown": "### **Cães Atletas e de Trabalho**\n\n**Foco:** Performance e recuperação.\n\n**Como a Terapia Ajuda:** Aquecimento muscular eficiente antes do exercício (reduz risco de distensão), aceleração da remoção do ácido lático pós-exercício (previne fadiga)."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65e72bc987ab487fbfd67aec:categories:Cães & Gatos:/produtos-para-caes-e-gatos",
+      "title": "",
+      "link": "https://www.magneticpet.com.br//produtos-para-caes-e-gatos"
     }
   ]
 }
