@@ -4,28 +4,32 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "INFORMAÇÕES",
     "list": [
       {
         "text": "SOBRE A EMPRESA",
-        "url": "https://magneticpet.com.br/pages/sobre-nos"
+        "url": "https://www.magneticpet.com.br/pages/sobre-nos"
       },
       {
-        "text": "PAGAMENTOS & FRETE",
-        "url": "https://magneticpet.com.br/pages/sobre-nos"
+        "text": "CONDIÇÕES DE ENTREGA",
+        "url": "https://www.magneticpet.com.br/pages/entrega"
       },
       {
-        "url": "https://magneticpet.com.br/pages/sobre-nos",
+        "text": "FORMAS DE PAGAMENTO",
+        "url": "https://www.magneticpet.com.br/pages/pagamentos"
+      },
+      {
+        "url": "https://www.magneticpet.com.br/pages/privacidade",
         "text": "PRIVACIDADE & SEGURANÇA "
       },
       {
         "text": "TROCA & DEVOLUÇÕES",
-        "url": "https://magneticpet.com.br/pages/sobre-nos"
+        "url": "https://www.magneticpet.com.br/pages/trocas"
       },
       {
         "text": "EVENTOS",
-        "url": "https://magneticpet.com.br/pages/sobre-nos"
+        "url": "https://www.magneticpet.com.br/blog"
       }
     ]
   },
@@ -42,23 +46,32 @@
         "url": "https://magneticpet.com.br/pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho"
       },
       {
+        "text": "Lesões em Cavalos: Entenda, Previna e Trate com Eficácia",
+        "url": "https://www.magneticpet.com.br/pages/lesoes-cavalos"
+      },
+      {
+        "url": "https://www.magneticpet.com.br/pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho",
+        "text": "Tratamento de Lesões em Cavalos com Terapia Magnética e Infravermelho Longo"
+      },
+      {
+        "url": "https://www.magneticpet.com.br/pages/terapias-infravermelhos-e-magneticos",
+        "text": "Terapias Infravermelhos e Magnéticos"
+      },
+      {
+        "text": "Tecnologia de ponta em regeneração e alívio de dor, adaptada para cada anatomia.",
+        "url": "https://www.magneticpet.com.br/pages/solucoes-de-recuperacao"
+      },
+      {
+        "url": "https://www.magneticpet.com.br/pages/solucoes-terapeuticas-humanos-pets-e-cavalos-magnetic-pet",
+        "text": "Soluções Terapêuticas: Humanos, Pets e Cavalos "
+      },
+      {
         "text": "Tratamento Terapêutico para Cães: Alívio da Dor e Recuperação Natural",
         "url": "https://magneticpet.com.br/pages/recuperacao-e-conforto-como-magnetic-pet-ajuda-no-tratamento-de-doencas-caninas"
       },
       {
-        "text": "Prevenção e Qualidade de Vida para Cães: O Poder do Infravermelho Longo"
-      },
-      {
-        "text": "Tratamento Terapêutico para Gatos: Alívio da Dor e Recuperação Natural"
-      },
-      {
-        "text": "Prevenção e Qualidade de Vida para Gatos: O Poder do Infravermelho Longo"
-      },
-      {
-        "text": "Tratamento de Dores e Lesões com Magnetoterapia e Infravermelho"
-      },
-      {
-        "text": "Alta Performance e Prevenção: O Poder do Infravermelho Longo"
+        "text": "Alta Performance e Prevenção: O Poder do Infravermelho Longo",
+        "url": "https://www.magneticpet.com.br/pages/viver-mais-e-melhor-terapia-preventiva-e-suporte-com-infravermelho-para-caes"
       }
     ]
   },
