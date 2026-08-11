@@ -24,6 +24,10 @@
       "sort": "news",
       "title": "Nossos Destaques da Semana",
       "link": "https://magneticpet.netlify.app/destaques"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
