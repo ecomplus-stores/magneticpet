@@ -39,7 +39,7 @@
       "shuffle": false,
       "headless": true,
       "type": "collection-shelf",
-      "link": "https://magneticpet.com.br/produtos-para-cavalos",
+      "link": "https://www.magneticpet.com.br/produtos-para-cavalos",
       "limit": 12,
       "collection_id": "65e7465a87ab487fbfd6b764:categories:Cavalos:/produtos-para-cavalos",
       "sort": "views"
@@ -82,7 +82,7 @@
       "page": 1,
       "collection_id": "65e72bc987ab487fbfd67aec:categories:Cães & Gatos:/produtos-para-caes-e-gatos",
       "sort": "views",
-      "link": "https://magneticpet.com.br/produtos-para-caes-e-gatos",
+      "link": "https://www.magneticpet.com.br/produtos-para-caes-e-gatos",
       "title": "Conforto e Cuidado para seu Pet"
     },
     {
@@ -106,7 +106,7 @@
       "page": 1,
       "collection_id": "6679784cf4e6d85ab2b66086:categories:Para Toda Família:/produtos-terapeuticos-para-humanos",
       "sort": "news",
-      "link": "https://magneticpet.com.br/produtos-terapeuticos-para-humanos",
+      "link": "https://www.magneticpet.com.br/produtos-terapeuticos-para-humanos",
       "title": "Saúde e recuperação para você, confira"
     }
   ]
