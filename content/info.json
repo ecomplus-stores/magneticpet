@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Envio para Todo Brasil "
+    "text": "Envio para Todo Brasil ",
+    "link": "https://www.magneticpet.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até x sem juros"
+    "text": "Parcele em até 3x no cartão ",
+    "link": "https://www.magneticpet.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": false,
