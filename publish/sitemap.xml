@@ -518,6 +518,12 @@
     </url>
   
     <url>
+      <loc>https://https://www.magneticpet.com.br//marca-magnetic-pet</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://https://www.magneticpet.com.br//destaques</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -584,12 +590,6 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//marca-magnetic-pet</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://https://www.magneticpet.com.br//pages/cavalos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -602,12 +602,6 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://https://www.magneticpet.com.br//pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -615,6 +609,12 @@
   
     <url>
       <loc>https://https://www.magneticpet.com.br//pages/lesoes-cavalos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -656,6 +656,12 @@
     </url>
   
     <url>
+      <loc>https://https://www.magneticpet.com.br//pages/solucoes-terapeuticas-humanos-pets-e-cavalos-magnetic-pet</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://https://www.magneticpet.com.br//pages/terapias-infravermelhos-e-magneticos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -663,12 +669,6 @@
   
     <url>
       <loc>https://https://www.magneticpet.com.br//pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//pages/solucoes-terapeuticas-humanos-pets-e-cavalos-magnetic-pet</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -710,13 +710,13 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//admin/index</loc>
+      <loc>https://https://www.magneticpet.com.br//app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//app/index</loc>
+      <loc>https://https://www.magneticpet.com.br//admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
