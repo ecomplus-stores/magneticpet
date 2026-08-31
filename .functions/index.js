@@ -5,3 +5,7 @@ const { ssr } = require('@ecomplus/storefront-renderer/functions/')
 process.env.STOREFRONT_LONG_CACHE = 'true'
 
 exports.ssr = functions.https.onRequest((req, res) => ssr(req, res))
+
+
+const { syncCorreiosTracking } = require('./sync-correios');
+exports.syncCorreiosTracking = syncCorreiosTracking;
