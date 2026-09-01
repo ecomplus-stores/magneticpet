@@ -1,0 +1,40 @@
+name: Sync Correios tracking
+
+on:
+  schedule:
+    # a cada 2 horas (UTC)
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Somente simular (não grava nada na loja)'
+        type: boolean
+        default: true
+
+jobs:
+  sync:
+    name: Atualiza fulfillment pelos Correios
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+
+      - name: Sync
+        env:
+          ECOM_STORE_ID: '51495'
+          ECOM_AUTH_ID: ${{ secrets.ECOM_AUTH_ID }}
+          ECOM_API_KEY: ${{ secrets.ECOM_API_KEY }}
+          # credenciais do CWS vêm da config do app Correios da loja;
+          # os secrets abaixo são opcionais e só servem para sobrescrever
+          CORREIOS_USUARIO: ${{ secrets.CORREIOS_USUARIO }}
+          CORREIOS_CODIGO_ACESSO: ${{ secrets.CORREIOS_CODIGO_ACESSO }}
+          CORREIOS_CARTAO_POSTAGEM: ${{ secrets.CORREIOS_CARTAO_POSTAGEM }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: node scripts/sync-correios-tracking.js
