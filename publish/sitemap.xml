@@ -404,6 +404,72 @@
     </url>
   
     <url>
+      <loc>https://https://www.magneticpet.com.br//destaques</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//terapeuticos-cavalos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//para-artrose-artrite-e-dores-articulares-jarrete-e-joelho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//pos-operatorio-e-feridas-de-dificil-cicatrizacao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//caes-artrose-artrite-e-displasia-dores-articulares</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//conforto-e-performance-linha-equina-profissional</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//mobilidade-e-bem-estar-pets</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//conforto-e-bem-estar-para-voce</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//terapeuticos-linha-equina-profissional</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//terapeuticos-linha-pet</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//terapeuticos-linha-para-voce</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://https://www.magneticpet.com.br//produtos-para-caes-e-gatos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -542,72 +608,6 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//destaques</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//terapeuticos-cavalos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//para-artrose-artrite-e-dores-articulares-jarrete-e-joelho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//pos-operatorio-e-feridas-de-dificil-cicatrizacao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//caes-artrose-artrite-e-displasia-dores-articulares</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//conforto-e-performance-linha-equina-profissional</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//mobilidade-e-bem-estar-pets</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//conforto-e-bem-estar-para-voce</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//terapeuticos-linha-equina-profissional</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//terapeuticos-linha-pet</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//terapeuticos-linha-para-voce</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://https://www.magneticpet.com.br//marca-magnetic-pet</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -621,6 +621,12 @@
   
     <url>
       <loc>https://https://www.magneticpet.com.br//pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -644,12 +650,6 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://https://www.magneticpet.com.br//pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -668,19 +668,7 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//pages/sobre-nos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://https://www.magneticpet.com.br//pages/solucoes-de-recuperacao</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//pages/solucoes-terapeuticas-humanos-pets-e-cavalos-magnetic-pet</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -692,7 +680,19 @@
     </url>
   
     <url>
+      <loc>https://https://www.magneticpet.com.br//pages/solucoes-terapeuticas-humanos-pets-e-cavalos-magnetic-pet</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://https://www.magneticpet.com.br//pages/tratamento-de-lesoes-em-cavalos-terapia-magnetica-e-infravermelho</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -716,12 +716,6 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://https://www.magneticpet.com.br//</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
@@ -734,13 +728,13 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
+      <loc>https://https://www.magneticpet.com.br//blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//app/index</loc>
+      <loc>https://https://www.magneticpet.com.br//admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
@@ -749,6 +743,12 @@
       <loc>https://https://www.magneticpet.com.br//maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
