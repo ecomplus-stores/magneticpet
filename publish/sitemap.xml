@@ -542,6 +542,12 @@
     </url>
   
     <url>
+      <loc>https://https://www.magneticpet.com.br//marca-magnetic-pet</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://https://www.magneticpet.com.br//destaques</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -608,12 +614,6 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//marca-magnetic-pet</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://https://www.magneticpet.com.br//pages/cavalos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -626,13 +626,13 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//pages/entrega</loc>
+      <loc>https://https://www.magneticpet.com.br//pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//pages/faq</loc>
+      <loc>https://https://www.magneticpet.com.br//pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -650,13 +650,13 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//pages/privacidade</loc>
+      <loc>https://https://www.magneticpet.com.br//pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//pages/prevencao-de-lesoes-e-performance-equina-com-infravermelho</loc>
+      <loc>https://https://www.magneticpet.com.br//pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
