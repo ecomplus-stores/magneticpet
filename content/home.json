@@ -35,13 +35,13 @@
     },
     {
       "page": 1,
-      "title": "",
+      "title": "Protetor de Rim Alto Impacto com Abertura de Cernelha",
       "shuffle": false,
       "headless": true,
       "type": "collection-shelf",
-      "link": "https://www.magneticpet.com.br/produtos-para-cavalos",
+      "link": "https://magneticpet.com.br/destaques",
       "limit": 12,
-      "collection_id": "65e7465a87ab487fbfd6b764:categories:Cavalos:/produtos-para-cavalos",
+      "collection_id": "65f0684287ab487fbfe1971e:collections:Destaques:/destaques",
       "sort": "news"
     },
     {
