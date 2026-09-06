@@ -614,13 +614,19 @@
     </url>
   
     <url>
+      <loc>https://https://www.magneticpet.com.br//pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://https://www.magneticpet.com.br//pages/cavalos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//pages/contato</loc>
+      <loc>https://https://www.magneticpet.com.br//pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -633,12 +639,6 @@
   
     <url>
       <loc>https://https://www.magneticpet.com.br//pages/lesoes-cavalos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
