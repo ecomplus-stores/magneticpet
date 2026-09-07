@@ -620,13 +620,13 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//pages/entrega</loc>
+      <loc>https://https://www.magneticpet.com.br//pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//pages/contato</loc>
+      <loc>https://https://www.magneticpet.com.br//pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -680,6 +680,12 @@
     </url>
   
     <url>
+      <loc>https://https://www.magneticpet.com.br//pages/solucoes-terapeuticas-humanos-pets-e-cavalos-magnetic-pet</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://https://www.magneticpet.com.br//pages/terapias-infravermelhos-e-magneticos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -699,12 +705,6 @@
   
     <url>
       <loc>https://https://www.magneticpet.com.br//pages/viver-mais-e-melhor-terapia-preventiva-e-suporte-com-infravermelho-para-caes</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//pages/solucoes-terapeuticas-humanos-pets-e-cavalos-magnetic-pet</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
