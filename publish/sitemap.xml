@@ -410,6 +410,12 @@
     </url>
   
     <url>
+      <loc>https://https://www.magneticpet.com.br//marca-magnetic-pet</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://https://www.magneticpet.com.br//produtos-para-caes-e-gatos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -614,19 +620,13 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//marca-magnetic-pet</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//pages/contato</loc>
+      <loc>https://https://www.magneticpet.com.br//pages/cavalos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//pages/faq</loc>
+      <loc>https://https://www.magneticpet.com.br//pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -638,7 +638,7 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//pages/cavalos</loc>
+      <loc>https://https://www.magneticpet.com.br//pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
