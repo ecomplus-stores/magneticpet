@@ -3,6 +3,11 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/semanaclientelojfv.png",
+      "mobile_img": "/img/uploads/semanaclienteloj.png"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -42,7 +47,7 @@
       "link": "https://magneticpet.com.br/destaques",
       "limit": 12,
       "collection_id": "65f0684287ab487fbfe1971e:collections:Destaques:/destaques",
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
