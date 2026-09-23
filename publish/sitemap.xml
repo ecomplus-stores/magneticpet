@@ -638,6 +638,12 @@
     </url>
   
     <url>
+      <loc>https://https://www.magneticpet.com.br//pages/faq</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://https://www.magneticpet.com.br//pages/lesoes-cavalos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -645,12 +651,6 @@
   
     <url>
       <loc>https://https://www.magneticpet.com.br//pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://https://www.magneticpet.com.br//pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -674,12 +674,6 @@
     </url>
   
     <url>
-      <loc>https://https://www.magneticpet.com.br//pages/sobre-nos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://https://www.magneticpet.com.br//pages/solucoes-de-recuperacao</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -687,6 +681,12 @@
   
     <url>
       <loc>https://https://www.magneticpet.com.br//pages/solucoes-terapeuticas-humanos-pets-e-cavalos-magnetic-pet</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://https://www.magneticpet.com.br//pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
