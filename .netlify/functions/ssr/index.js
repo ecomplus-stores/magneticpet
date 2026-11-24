@@ -4,7 +4,7 @@ process.env.NODE_ENV = 'production'
 process.env.STOREFRONT_BASE_DIR = __dirname
 process.env.STOREFRONT_BUNDLES_PATH = path.join(`${__dirname}/bundles.json`)
 
-exports.handler = (ev, context, callback) => {
+const handler = (ev, context, callback) => {
   if (/^\/(storefront|checkout)\.[^.]+\.(js|css)$/.test(ev.path)) {
     const [filename, , ext] = ev.path.split('.')
     return callback(null, {
@@ -53,3 +53,12 @@ exports.handler = (ev, context, callback) => {
   const { ssr } = require('@ecomplus/storefront-renderer/functions/')
   ssr(req, res)
 }
+
+// Node.js 24+ Lambda runtime no longer supports callback-based handlers
+exports.handler = (ev, context) => new Promise((resolve, reject) => {
+  try {
+    handler(ev, context, (err, response) => err ? reject(err) : resolve(response))
+  } catch (err) {
+    reject(err)
+  }
+})
