@@ -42,7 +42,7 @@
       "link": "https://magneticpet.com.br/destaques",
       "limit": 12,
       "collection_id": "65f0684287ab487fbfe1971e:collections:Destaques:/destaques",
-      "sort": "sales"
+      "sort": "news"
     },
     {
       "type": "banners-grid",
